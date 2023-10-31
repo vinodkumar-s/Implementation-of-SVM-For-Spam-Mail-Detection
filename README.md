@@ -20,7 +20,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 Program to implement the SVM For Spam Mail Detection.
 #### Developed by:  VINOD KUMAR S  
-#### RegisterNumber: 212221240116
+#### RegisterNumber: 212222240116
 
 ```python
 #import packages
